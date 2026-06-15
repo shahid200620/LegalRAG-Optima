@@ -1,0 +1,102 @@
+[
+  {
+    "query_id": "q1",
+    "query_text": "What is the confidentiality period in this agreement?",
+    "relevant_docs": ["contract_1"]
+  },
+  {
+    "query_id": "q2",
+    "query_text": "Can this agreement be terminated with notice?",
+    "relevant_docs": ["contract_2"]
+  },
+  {
+    "query_id": "q3",
+    "query_text": "Who owns intellectual property created during employment?",
+    "relevant_docs": ["contract_3"]
+  },
+  {
+    "query_id": "q4",
+    "query_text": "What are the payment terms before delivery?",
+    "relevant_docs": ["contract_4"]
+  },
+  {
+    "query_id": "q5",
+    "query_text": "How long does the product warranty remain valid?",
+    "relevant_docs": ["contract_5"]
+  },
+  {
+    "query_id": "q6",
+    "query_text": "When must rent be paid under the lease?",
+    "relevant_docs": ["contract_6"]
+  },
+  {
+    "query_id": "q7",
+    "query_text": "Is subleasing allowed in the lease agreement?",
+    "relevant_docs": ["contract_7"]
+  },
+  {
+    "query_id": "q8",
+    "query_text": "Who is responsible for structural repairs?",
+    "relevant_docs": ["contract_8"]
+  },
+  {
+    "query_id": "q9",
+    "query_text": "What happens if confidential information is disclosed?",
+    "relevant_docs": ["contract_9"]
+  },
+  {
+    "query_id": "q10",
+    "query_text": "How many years does the agreement remain active?",
+    "relevant_docs": ["contract_10"]
+  },
+  {
+    "query_id": "q11",
+    "query_text": "What is the salary payment schedule for employees?",
+    "relevant_docs": ["contract_11"]
+  },
+  {
+    "query_id": "q12",
+    "query_text": "Can the buyer reject defective goods?",
+    "relevant_docs": ["contract_12"]
+  },
+  {
+    "query_id": "q13",
+    "query_text": "How is the security deposit handled after inspection?",
+    "relevant_docs": ["contract_13"]
+  },
+  {
+    "query_id": "q14",
+    "query_text": "How long do confidentiality obligations survive?",
+    "relevant_docs": ["contract_14"]
+  },
+  {
+    "query_id": "q15",
+    "query_text": "What law governs disputes in the agreement?",
+    "relevant_docs": ["contract_15"]
+  },
+  {
+    "query_id": "q16",
+    "query_text": "What notice period is required for employment termination?",
+    "relevant_docs": ["contract_16"]
+  },
+  {
+    "query_id": "q17",
+    "query_text": "When should defects in goods be reported?",
+    "relevant_docs": ["contract_17"]
+  },
+  {
+    "query_id": "q18",
+    "query_text": "How long is the lease valid before renewal?",
+    "relevant_docs": ["contract_18"]
+  },
+  {
+    "query_id": "q19",
+    "query_text": "What legal action can be taken for NDA breach?",
+    "relevant_docs": ["contract_19"]
+  },
+  {
+    "query_id": "q20",
+    "query_text": "Is liability limited under this agreement?",
+    "relevant_docs": ["contract_20"]
+  }
+]
